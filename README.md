@@ -7,7 +7,7 @@ This assignment demonstrates how to load, explore, analyze, and visualize a data
 ## Contents
 
 - `iris_analysis.py`: Python script that performs all required steps for the assignment.
-- (This) `README.md`: Explains the purpose, steps, and requirements of the assignment.
+- `README.md`: Explains the purpose, steps, and requirements of the assignment.
 
 ## Tasks Covered
 
@@ -49,5 +49,5 @@ This assignment demonstrates how to load, explore, analyze, and visualize a data
 
 ## Author
 
-- Your Name Here
-- Date: September 17, 2025
+- Timothy Giathi
+- Date: September 2025
